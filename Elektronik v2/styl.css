@@ -84,7 +84,7 @@ nav {
 
 .logo {
   width: 300px;
-  border-bottom-right-radius: 50px;
+  border-bottom-right-radius: 100px;
   background-color: #164a56;
   position: fixed;
   top: 0;
