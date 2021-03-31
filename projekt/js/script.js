@@ -10,7 +10,7 @@ function wyskakujaceOkienko() {
         animacja.style.display = "block";
         animacja.style.height = oknoWysokosc+"px";
         okienko_box_calosc.style.left = (oknoSzerokosc/2) - (600 * .5)+"px";
-        okienko_box_calosc.style.top = "300px";
+        okienko_box_calosc.style.top = "500px";
         okienko_box_calosc.style.display = "block";
         
         document.getElementById('okienko_box_naglowek').innerHTML = "O zawodzie:";
