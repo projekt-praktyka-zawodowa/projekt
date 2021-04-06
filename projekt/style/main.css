@@ -199,9 +199,8 @@ nav > ul > li > a:hover {
 }
 
 .textwithphoto p {
-  font-size: 12pt;
+  font-size: 14pt;
   word-spacing: 1px;
-  letter-spacing: 1px;
   text-align: justify-all;
   line-height: 175%;
   color: black;
