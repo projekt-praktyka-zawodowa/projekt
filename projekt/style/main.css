@@ -66,6 +66,8 @@ nav {
 .banner h1 {
   text-shadow: 2px 2px crimson;
   font-size: 35pt;
+  margin: 0 0 0 20px;
+  font-family: cursive;
 }
 
 .banner_btn {
@@ -175,6 +177,8 @@ nav > ul > li > a:hover {
 .co_zyskujesz_box > p {
   margin-top: 20px;
   text-align: center;
+  word-spacing: 1px;
+  font-size: 13pt;
 }
 /* SEKCJA 'CO ZYSKUJESZ' */
 
@@ -267,6 +271,7 @@ footer h1 {
 footer p {
     
     padding: 20px;
+    font-size: 10pt;
 }
 
 /* STOPKA */
